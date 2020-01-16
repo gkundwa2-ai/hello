@@ -8,7 +8,9 @@
  
  int main (void){
  
- printf("Hello World");
+ printf("Gabin Kundwa");
  printf("I am majoring in Integrated Science");// line to represent my major
+ printf("Richard Sheibal");
+ printf("I am a Computer Science Major!");
  return 0;
  }
